@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Write"
+  short_description: "Draft clear professional emails and documents"
+  default_prompt: "Use $email-write to draft a concise professional email in Thai."
